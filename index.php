@@ -43,8 +43,9 @@ https://templatemo.com/tm-529-ramayana
         <header id="header">
           <div class="logo">
             <a href="<?= BASE_URL ?>/home">Patrimônio</a>
-          </div>
+          </div> 
         </header>
+        
 
         <?php
         

@@ -35,25 +35,28 @@
              </div></a>
              <div class="col-md-4">
                  <div class="service-item second-item">
+                     <a href="<?= BASE_URL ?>/pages/consulta">
                      <div class="icon"></div>
                      <h4>Consultar</h4>
                      <p>Consulta de Itens</p>
                  </div>
-             </div>
+             </div></a>
              <div class="col-md-4">
                  <div class="service-item third-item">
+                     <a href="<?= BASE_URL ?>/pages/atualizar">
                      <div class="icon"></div>
                      <h4>Atualizar</h4>
                      <p>Atualizar Itens</p>
                  </div>
-             </div>
+             </div></a>
              <div class="col-md-4">
                  <div class="service-item fourth-item">
+                    <a href="<?= BASE_URL ?>/pages/relatorio">
                      <div class="icon"></div>
                      <h4>Relatório</h4>
                      <p>Gerar relatório.</p>
                  </div>
-             </div>
+             </div></a>
              <!--<div class="col-md-4">
                  <div class="service-item fivth-item">
                      <div class="icon"></div>
