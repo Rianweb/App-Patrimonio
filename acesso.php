@@ -6,7 +6,8 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
     require_once "conexao.php";
 
     $login = mysqli_real_escape_string($conn,$_POST['username']);
-    $senha = mysqli_real_escape_string($conn,$_POST['password']);
+    $senha = md5(mysqli_real_escape_string($conn,$_POST['password']));
+
 
     $sql = mysqli_query($conn, "SELECT * FROM tb_usuarios WHERE user_usuario = '$login' AND password_usuario = '$senha'") or die(mysqli_error($conn));
 

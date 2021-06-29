@@ -1,0 +1,9 @@
+-- Mudanças do Sistema --
+
+- Campo número de série mudar para VARCHAR. Feito
+- Add campo Marca do Item. Feito
+- No campo "Local onde está alocado", Add mais setores.
+- No campo "Tipo do Item", Add grupo de itens. (Componentes,Telefonia) 
+- No campo "Valor do item", mudar no banco para decimal ou float. Feito
+- Verificar se vai deixar o placeholder ou name dos campos.
+- Corrigir acentos em alguns campos. Feito

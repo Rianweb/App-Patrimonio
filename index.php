@@ -42,7 +42,11 @@ https://templatemo.com/tm-529-ramayana
         <!-- Header -->
         <header id="header">
           <div class="logo">
-            <a href="<?= BASE_URL ?>/home">Patrimônio</a>
+            <a href="<?= BASE_URL ?>/home">Patrimônio</a> 
+          </div>
+          <div class="botao_sair">
+            <a href="<?= BASE_URL ?>/sair">
+            <img title="Sair" src="<?= BASE_URL ?>/assets/images/logout.png"></a>
           </div> 
         </header>
         
