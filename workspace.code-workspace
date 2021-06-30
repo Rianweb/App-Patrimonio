@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "vendor"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "pages"
+		}
+	]
+}

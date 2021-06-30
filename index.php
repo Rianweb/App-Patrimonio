@@ -78,19 +78,19 @@ https://templatemo.com/tm-529-ramayana
       <!-- Aqui -->
     </div>
 
-    <!-- Sidebar -->
+    <!-- Sidebar 
     <div id="sidebar">
 
       <div class="inner">
 
-        <!-- Search Box -->
+        <!-- Search Box 
         <section id="search" class="alt">
           <form method="get" action="#">
             <input type="text" name="search" id="search" placeholder="Pesquisar" />
           </form>
         </section>
 
-        <!-- Menu -->
+         Menu 
         <nav id="menu">
           <ul>
             <li><a href="<?= BASE_URL ?>/home">Página Inicial</a></li>
@@ -106,7 +106,7 @@ https://templatemo.com/tm-529-ramayana
               </ul>
             </li>
             <li><a href="<?= BASE_URL ?>/sair">Sair</a></li>
-            <!-- <li>
+             <li>
                   <span class="opener">Dropdown Two</span>
                   <ul>
                     <li><a href="#">Sub Menu #1</a></li>
@@ -118,7 +118,7 @@ https://templatemo.com/tm-529-ramayana
           </ul>
         </nav>
 
-        <!-- Featured Posts -->
+        <!-- Featured Posts 
         <div class="featured-posts">
           <div class="heading">
             <h2>Featured Posts</h2>
@@ -146,7 +146,7 @@ https://templatemo.com/tm-529-ramayana
         </div>
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
 
-        <!-- Footer -->
+         Footer 
         <footer id="footer">
           <p class="copyright">Copyright &copy; 2019 Company Name
             <br>Designed by <a rel="nofollow" href="https://www.facebook.com/templatemo">Template Mo</a>
@@ -156,7 +156,7 @@ https://templatemo.com/tm-529-ramayana
       </div>
     </div>
 
-  </div>
+  </div>-->
 
   <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->

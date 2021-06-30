@@ -7,3 +7,6 @@
 - No campo "Valor do item", mudar no banco para decimal ou float. Feito
 - Verificar se vai deixar o placeholder ou name dos campos.
 - Corrigir acentos em alguns campos. Feito
+- Atualizar arquivo Consultar. Feito
+
+- Erro na página Home (Warning: Undefined array key "url" in C:\xampp\htdocs\FANESE2\home.php on line 78 NULL)

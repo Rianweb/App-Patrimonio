@@ -77,7 +77,6 @@
  <?php
     var_dump($_POST['url']);
     ?>
-
  <!-- Top Image 
  <section class="top-image">
      <div class="container-fluid">
